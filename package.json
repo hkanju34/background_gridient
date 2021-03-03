@@ -1,0 +1,22 @@
+{
+  "name": "background_gridient",
+  "version": "1.0.0",
+  "description": "background_colors",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hkanju34/background_gridient.git"
+  },
+  "author": "kanju",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hkanju34/background_gridient/issues"
+  },
+  "homepage": "https://github.com/hkanju34/background_gridient#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
